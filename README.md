@@ -24,7 +24,7 @@
 
 ### 📫 Reach Out
 - **Seeking**: Remote Freelance | High-end Technical Consulting | AI Research Projects
-- **Status**: Available for select "Day-Rate" (日结) opportunities.
+- **Status**: Available for select "Day-Rate" opportunities.
 
 ---
 
