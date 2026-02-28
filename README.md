@@ -1,9 +1,9 @@
 # Hi there, I'm Tao 👋 
 
 ### 🎓 About Me
-- **Education**: Computer Science at **Stanford University** 🌲
+- **Education**: Computer Science at **Stanford University** 
 - **Focus**: High-performance Asynchronous Systems | AI Infrastructure | LLM Optimization
-- **Location**: Based in Shanghai (Remote Ready 🌍)
+- **Location**: Based in Shanghai (Remote Ready )
 
 ---
 
