@@ -29,5 +29,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archietao0210-ui&show_icons=true&theme=radical" alt="Tao's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=archietao0210-ui&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Tao's GitHub Stats" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archietao0210-ui&layout=compact&hide_stats=true&count_private=true&cache_seconds=1800" alt="Top Langs" />
