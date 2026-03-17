@@ -30,5 +30,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archietao0210-ui&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&hide_rank=true" alt="Tao's GitHub Stats" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archietao0210-ui&layout=compact&hide_stats=true&count_private=true&cache_seconds=1800" alt="Top Langs" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=archietao0210-ui&theme=radical)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archietao0210-ui&layout=compact&hide_stats=true&count_private=true&cache_seconds=1800" alt="Top Langs" />
